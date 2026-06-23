@@ -2,6 +2,8 @@
 
 This repository hosts the official implementation and project materials for **FT-WBC: Learning Fault-Tolerant Whole-Body Control for Legged Loco-Manipulation**.
 
+**Project Page:** https://ft-wbc.github.io/
+
 FT-WBC is a fault-tolerant whole-body control framework for legged loco-manipulation under actuator failures. The goal is to improve the robustness of legged manipulators when lower-limb actuator faults occur, enabling stable locomotion and manipulation through fault-aware policy adaptation.
 
 ## Overview
